@@ -14,6 +14,6 @@ RCT_EXPORT_METHOD(sampleMethod:(NSString *)stringArgument numberParameter:(nonnu
 }
 RCT_EXPORT_BLOCKING_SYNCHRONOUS_METHOD(getTokenReturn)
 {
-    return [NSString stringWithFormat:@"%s", "Sandeep"];
+    return [NSString stringWithFormat:@"%s", "Sandeep Singh"];
 }
 @end
